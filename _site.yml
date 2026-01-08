@@ -24,18 +24,18 @@ navbar:
       - text: "Squid Game Elimination Analysis"
         href: visualization1.html
   right:
+    - icon: ai-cv ai-lg
+      href: files/sample_resume.pdf
     - icon: fas fa-envelope
       href: contact.html
-    #- icon: ai-cv ai-lg
-    #  href: files/sample_resume.pdf
     - icon: fab fa-github
       href: http://github.com/
     - icon: fab fa-linkedin-in
       href: https://www.linkedin.com/
-    - icon: ai-google-scholar ai-lg
-      href: https://scholar.google.com/
-    - icon: ai-researchgate ai-lg
-      href: https://www.researchgate.net/
+    #- icon: ai-google-scholar ai-lg
+    #  href: https://scholar.google.com/
+    #- icon: ai-researchgate ai-lg
+    #  href: https://www.researchgate.net/
 output:
   html_document:
     theme: cosmo
